@@ -86,7 +86,7 @@ This course is open to all students who meet the academic requirements for parti
 | Unit   | Week | Day | Topic | Readings | Assignment |
 | --- | --- | --- | --- | --- |  --- |
 | Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences | 3/28/2022 | Introduction to the Course | | |
-|   |   | 3/30/2022 | General Considerations for Large-Scale Computing  | [Robey and Zamora 2020 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1), [Faster code via static typing (Cython)](http://docs.cython.org/en/latest/src/quickstart/cythonize.html), [A ~5 minute guide to Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html) |   |
+|   |   | 3/30/2022 | General Considerations for Large-Scale Computing  | [Robey and Zamora 2021 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1), [Faster code via static typing (Cython)](http://docs.cython.org/en/latest/src/quickstart/cythonize.html), [A ~5 minute guide to Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html) |   |
 | | Week 2: On-Premise Large-Scale CPU-computing with MPI | 4/4/2022 | An Introduction to Computing Clusters and CPU Hardware considerations | [Pacheco 2011](https://canvas.uchicago.edu/files/7194348/download?download_frd=1) (Ch. 1-2), [Midway User Guide](https://rcc.uchicago.edu/docs/) | |
 | | | 4/6/2022 | Cluster Computing via Message Passing Interface (MPI) for Python | [Pacheco 2011](https://canvas.uchicago.edu/files/7194348/download?download_frd=1) (Ch. 3), [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
 | | Week 3: On-Premise GPU-computing | 4/11/2022 | An Introduction to GPUs and GPU Programming | [Scarpino 2012](https://canvas.uchicago.edu/files/7194342/download?download_frd=1) (Read Ch. 1, Skim Ch. 2-5,9) | |
@@ -128,6 +128,8 @@ Dean, Jeffrey, and Sanjay Ghemawat. 2004. "MapReduce: Simplified data processing
 
 Evans, Robert and Jason Lowe. "Deep Dive into GPU Support in Apache Spark 3.x." https://www.youtube.com/watch?v=4MI_LYah900. Accessed 3/2021.
 
+"Fanout to Amazon SQS queues." https://docs.aws.amazon.com/sns/latest/dg/sns-sqs-as-subscriber.html. Accessed 3/2022.
+
 "Faster code via static typing." http://docs.cython.org/en/latest/src/quickstart/cythonize.html. Accessed 3/2021
 
 *Feature Engineering with PySpark*. https://learn.datacamp.com/courses/feature-engineering-with-pyspark. Accessed 3/2020.
@@ -166,9 +168,11 @@ Pacheco, Peter. 2011. *An Introduction to Parallel Programming*. Burlington, MA:
 
 Petrossian, Tony, and Ian Meyers. November 30, 2017. "Which Database to Use When?" https://youtu.be/KWOSGVtHWqA. AWS re:Invent 2017.
 
+Pirtle, Justin. December 8, 2020. "Scalable serverless event-driven architectures with SNS, SQS, and Lambda." https://www.youtube.com/watch?v=8zysQqxgj0I. AWS re:Invent 2020.
+
 "RCC User Guide." rcc.uchicago.edu/docs/. Accessed March 2020.
 
-Robey, Robert and Yuliana Zamora. 2020. *Parallel and High Performance Computing*. Manning Early Access Program.
+Robey, Robert and Yuliana Zamora. 2021. *Parallel and High Performance Computing*. Shelter Island, NY: Manning.
 
 Scarpino, Matthew. 2012. *OpenCL in Action*. Shelter Island, NY: Manning.
 
@@ -177,6 +181,10 @@ Sergeev, Alex. March 28, 2019. "Distributed Deep Learning with Horovod." https:/
 "Spark NLP Documentation." https://nlp.johnsnowlabs.com/. Accessed 3/2021.
 
 "The Bokeh Visualization Library Documentation." https://bokeh.org/. Accessed 3/2021.
+
+"Using AWS Lambda with S3." https://docs.aws.amazon.com/lambda/latest/dg/with-s3.html. Accessed 3/2022.
+
+"Using Lambda with Amazon SQS." https://docs.aws.amazon.com/lambda/latest/dg/with-sqs.html. Accessed 3/2022.
 
 "What is Amazon EMR." https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html. Accessed 3/2020.
 
