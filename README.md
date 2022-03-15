@@ -46,7 +46,7 @@ We curve only to the extent we might lower the boundaries for one or more letter
 So, for example, if you have a total score of 82 in the course, you are guaranteed to get, at least, a B (but may potentially get a higher grade if the boundary for a B+ is lowered).
 
 ## Participation Expectations
-We expect all students to participate in each class session in person (unless you have received authorization from the University to take the course remotely). Your participation grade (10% of your overall grade) will be based on this in-class participation.
+We expect all students to participate in each class session in person (unless you have received authorization from the University to take the course remotely). Your participation grade (10% of your overall grade in the class) will be based on this in-class participation (70% of the participation grade) as well as your participation in answering peer questions on the Ed Discussion board (30% of the participation grade).
 
 **If you are feeling sick (or have any possible COVID-19 symptoms), however, please stay home!** You can complete an alternative, asynchronous option for meeting the participation requirement for that day (to be announced in Week 1). Note that remote course access for longer than two weeks will require approval from the Dean of Students office (contact Brett Baker at bbaker@uchicago.edu for more details). Finally, if you do have COVID-19 symptoms and/or test positive for COVID-19, be sure to follow the [University COVID-19 Protocol](https://goforward.uchicago.edu/health-requirements/) in addition to completing the above steps.
 
