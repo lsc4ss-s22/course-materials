@@ -4,7 +4,7 @@
 | Instructor Information       | **TA Information**      | **TA Information**     | Course Information     |
 | :-------------               | :-------------          | :-------------         | :------------          |
 | Jon Clindaniel               | Jinfei Zhu              | MengChen Chung         | Location: 1155 E. 60th Street, Rm. 295   |
-| 1155 E. 60th Street, Rm. 215 | In-person OH: 1155 E. 60th St., Rm 224 | In-person OH: 1155 E. 60th St., Rm 224 | Monday/Wednesday       |
+| 1155 E. 60th Street, Rm. 215 | Remote office hours only | In-person OH: 1155 E. 60th St., Rm 224 | Monday/Wednesday       |
 | jclindaniel@uchicago.edu     | jinfei@uchicago.edu | mengchenc@uchicago.edu | 9:30-11:20 AM (CT) |
 | **Office Hours:** [Schedule an Appointment](https://appoint.ly/s/jclindaniel/office-hours)\* <br/><br/> Drop-In (No appointment needed): Friday 9:00-11:00am | **Office Hours:** [Schedule an Appointment](https://appoint.ly/s/jinfei/office-hours)\* | **Office Hours:** [Schedule an Appointment](https://appoint.ly/s/mengchenc/LSC)\*| [Canvas Course Site](https://canvas.uchicago.edu/courses/41990) |
 
